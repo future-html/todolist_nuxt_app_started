@@ -15,3 +15,6 @@
 
 // what topic vue should I learn before doing nuxt project I already setup nuxt with pinia already I am beginner of vue framework but I experience in react
 // https://javascript.plainenglish.io/10-useful-custom-hooks-with-vue-js-37f0fd42ce0d
+
+
+// write the slot for child element
